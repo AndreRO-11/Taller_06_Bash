@@ -1,0 +1,4 @@
+Andrea 11 5
+Pedro 14 8
+Juan 17 4
+María 16 2
