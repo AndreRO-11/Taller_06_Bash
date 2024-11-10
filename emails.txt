@@ -1,0 +1,7 @@
+usuario@gmail.com
+invalido@@hotmail.com
+otro-usuario@outlook.com
+usuario_sin_arroba.com
+valido+email@gmail.org
+malformato@gmail..com
+usuario@alumno.ubiobio.com
